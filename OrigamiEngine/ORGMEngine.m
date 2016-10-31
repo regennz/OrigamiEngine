@@ -53,6 +53,8 @@
 
 - (void)dealloc {
     [self removeObserver:self forKeyPath:@"currentState"];
+    [_input removeObserver:self forKeyPath:@"endOfInput"];
+    
     [_input release];
     [_output release];
     [_converter release];
