@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "43489CB85F3649CAF306BAEEA8969B19A7A7DEC9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "43489CB85F3649CAF306BAEEA8969B19A7A7DEC9" : 9223372036854775807,
+    "AB6BF607AE41DE2E3EC22C6C45D18E516EB9DDB0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "46DD25C6-CE79-4ED9-A7D0-9C99E5024044",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "43489CB85F3649CAF306BAEEA8969B19A7A7DEC9" : "OrigamiEngine\/",
+    "AB6BF607AE41DE2E3EC22C6C45D18E516EB9DDB0" : "OrigamiEngine\/Audio-Frameworks\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OrigamiEngine",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OrigamiEngine.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/regennz\/OrigamiEngine.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "43489CB85F3649CAF306BAEEA8969B19A7A7DEC9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ap4y\/Audio-Frameworks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AB6BF607AE41DE2E3EC22C6C45D18E516EB9DDB0"
+    }
+  ]
+}
